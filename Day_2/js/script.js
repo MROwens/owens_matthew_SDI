@@ -171,6 +171,28 @@ var quiz3=90;
 var average=(quiz1+quiz2+quiz3)/3;
 console.log(average);
 
+//Concatination
+//Use the +
+
+var firstName="Kermit";
+var lastName="The Frog"
+var fullName=firstName+" "+lastName;
+
+console.log(fullName);
+
+var d="6";
+var e="7";
+var combined=a+b;
+console.log(combined);
+
+//To round a number we us .toFixed(#)
+
+var num=5.09827302345
+
+//Round to 2 decimal places
+var n=num.toFixed(2);
+console.log(n);
+
 
 
 

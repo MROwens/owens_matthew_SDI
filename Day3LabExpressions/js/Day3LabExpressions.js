@@ -34,5 +34,18 @@ var week4=45;
 var week5=55;
 
 var monthlySpending=week1+week2+week3+week4+week5;
+var average=monthlySpending/5;
 
-console.log(average);
+console.log("You have spent a total of "+monthlySpending+" on groceriesover 5 weeks. That is an average of "+average+" per week.");
+
+//Discounts
+
+var originalPrice=400;
+var discountPercentage=.20;
+var salesTax=2.23;
+var item="South Norwegian Penguin";
+
+var discountAmount=discountPercentage*originalPrice;
+var discountPrice=originalPrice-discountAmount;
+
+console.log(discountPrice)
