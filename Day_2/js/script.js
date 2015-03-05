@@ -48,6 +48,65 @@ console.log(a);
 a=a+3;
 console.log(a);
 
+var b;
+
+//Define this variable using an existing variable.
+
+b=a+3;
+
+console.log(a);
+console.log(b);
+
+//Simple Math
+//Find our ages
+
+var yearBorn=1994;
+
+//2015 minus the year we are born
+
+var ourAge=2015-yearBorn-1;
+
+console.log(ourAge);
+
+//Talk about math
+//+,-,*,/
+
+//Find the area of a triangle
+//Base * height / 2
+
+
+var base=4
+var height=5
+
+var area=base*height/2;
+
+console.log(area);
+
+//Modulo - %
+//Gives the remainder
+
+var remainder=32%10
+console.log(remainder);
+
+//Find if even or odd
+//%2 1=odd 0=even
+
+var evenOrOdd=67%2
+console.log(evenOrOdd);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

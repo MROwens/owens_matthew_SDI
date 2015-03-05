@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="649ae1aa-d264-4fc6-bb8f-389745dd3bc4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day3LabExpressions/js/Day3LabExpressions.js" afterPath="$PROJECT_DIR$/Day3LabExpressions/js/Day3LabExpressions.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day_2/js/script.js" afterPath="$PROJECT_DIR$/Day_2/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="owens_matthew_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,8 +40,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day_2/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.74545455" vertical-offset="75" max-vertical-offset="900">
-              <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6909091" vertical-offset="870" max-vertical-offset="1785">
+              <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -62,8 +62,8 @@
       <file leaf-file-name="Day3LabExpressions.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day3LabExpressions/js/Day3LabExpressions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -85,8 +85,8 @@
         <option value="$PROJECT_DIR$/Day_2/js/Day2.js" />
         <option value="$PROJECT_DIR$/Day_2/Day2.html" />
         <option value="$PROJECT_DIR$/Day3LabExpressions/Day3LabExpressions.html" />
-        <option value="$PROJECT_DIR$/Day_2/js/script.js" />
         <option value="$PROJECT_DIR$/Day3LabExpressions/js/Day3LabExpressions.js" />
+        <option value="$PROJECT_DIR$/Day_2/js/script.js" />
       </list>
     </option>
   </component>
@@ -335,8 +335,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day3LabExpressions/js/Day3LabExpressions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -345,8 +345,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day_2/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74545455" vertical-offset="75" max-vertical-offset="900">
-          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6909091" vertical-offset="870" max-vertical-offset="1785">
+          <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
