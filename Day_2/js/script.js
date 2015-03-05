@@ -94,10 +94,82 @@ console.log(remainder);
 var evenOrOdd=67%2
 console.log(evenOrOdd);
 
+//Assignment Operators
+/*
+= - Assigns the value to the variable
+++ - Adds one to the current value of the variable
+-- - Subtracts one to the current value of the variable
++= # - Adds the number to the current value of the variable
+- = # - Subtracts the number to the current value of the variable
+/= - Divide the current value by the number
+*= - multiply the current value by the number
+ */
+
+var assign=0;
+
+//++ is the same as assign = assign + 1
+assign++;
+console.log(assign);
+
+//-- is the same as assign = assign - 1
+assign--;
+
+//+=# the same as assign = assign + #
+assign+=5;
+console.log(assign);
+
+//-=# same as assign = assign - #
+assign-=2;
+console.log(assign);
+
+// /= assign = assign / #
+assign/=3;
+console.log(assign);
+
+// */ assign = assign * #
+assign*=2;
+console.log(assign);
+
+//Strings- Any text
+//Quotes are needed to distinguish between variables and plain text
+
+var kermit="Light Green";
+var frogName=kermit;
+
+console.log(frogName);
+
+//To double quote or not to double quote
+//Can use a backslash in front of the ' to ignore the '
+var phrase="I don't know";
+console.log(phrase);
+
+//Escape character can also do multiple lines
+
+var phrase2="I don't know. \nYou never do.";
+console.log(phrase2);
+
+//Boolean - like a light switch
+//True or False
+//Not a text string and must be lower case
+
+var yes=true;
+var no=false;
 
 
+//Order of Operations
+//PEMDAS
+//(), exponent, multiplication, division, addition, subtraction
 
+//Find average quiz grade
 
+var quiz1=87;
+var quiz2=100;
+var quiz3=90;
+
+//Average=add them and divide by 3
+
+var average=(quiz1+quiz2+quiz3)/3;
+console.log(average);
 
 
 

@@ -24,3 +24,15 @@ var sparky=results%2;
 
 console.log("Sparky gets "+sparky+" slices of pizza.")
 
+
+//Average shopping bill
+
+var week1=25;
+var week2=63;
+var week3=87;
+var week4=45;
+var week5=55;
+
+var monthlySpending=week1+week2+week3+week4+week5;
+
+console.log(average);
