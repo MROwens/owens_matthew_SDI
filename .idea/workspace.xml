@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="649ae1aa-d264-4fc6-bb8f-389745dd3bc4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Owens_Matthew_Expressions_Assignment/js/ExpressionsAssignment.js" afterPath="$PROJECT_DIR$/Owens_Matthew_Expressions_Assignment/js/ExpressionsAssignment.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day2LabExpressions/js/Day2LabExpressions.js" afterPath="$PROJECT_DIR$/Day2LabExpressions/js/Day2LabExpressions.js" />
     </list>
     <ignored path="owens_matthew_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,44 +26,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ExpressionsAssignment.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Owens_Matthew_Expressions_Assignment/ExpressionsAssignment.html">
+      <file leaf-file-name="Day2LabExpressions.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day2LabExpressions/js/Day2LabExpressions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExpressionsAssignment.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Owens_Matthew_Expressions_Assignment/js/ExpressionsAssignment.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6363636" vertical-offset="0" max-vertical-offset="825">
-              <caret line="33" column="163" selection-start-line="33" selection-start-column="163" selection-end-line="33" selection-end-column="163" />
+            <state vertical-scroll-proportion="0.6181818" vertical-offset="195" max-vertical-offset="1020">
+              <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day3Casting.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 3/js/Day3Casting.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="870">
-              <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day3Arrays.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 3/js/Day3Arrays.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1260">
-              <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -84,7 +54,6 @@
         <option value="$PROJECT_DIR$/Day3LabExpressions/Day3LabExpressions.html" />
         <option value="$PROJECT_DIR$/Day3LabExpressions/js/Day3LabExpressions.js" />
         <option value="$PROJECT_DIR$/Day_2/js/script.js" />
-        <option value="$PROJECT_DIR$/Day2LabExpressions/js/Day2LabExpressions.js" />
         <option value="$PROJECT_DIR$/Day 3/Day3Arrays.html" />
         <option value="$PROJECT_DIR$/Day 3/js/Day3Arrays.js" />
         <option value="$PROJECT_DIR$/Day 3/Day3Prompts.js" />
@@ -94,6 +63,7 @@
         <option value="$PROJECT_DIR$/Day 3/js/Day3Casting.js" />
         <option value="$PROJECT_DIR$/Owens_Matthew_Expressions_Assignment/ExpressionsAssignment.html" />
         <option value="$PROJECT_DIR$/Owens_Matthew_Expressions_Assignment/js/ExpressionsAssignment.js" />
+        <option value="$PROJECT_DIR$/Day2LabExpressions/js/Day2LabExpressions.js" />
       </list>
     </option>
   </component>
@@ -170,6 +140,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Day 3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="owens_matthew_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="owens_matthew_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day2LabExpressions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="owens_matthew_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="owens_matthew_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day2LabExpressions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -318,16 +320,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day2LabExpressions/js/Day2LabExpressions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79545456" vertical-offset="375" max-vertical-offset="1035">
-          <caret line="60" column="27" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 3/Day3Arrays.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
@@ -352,22 +344,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 3/js/Day3Arrays.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1260">
-          <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 3/js/Day3Prompts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 3/Day3Casting.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.09363296" vertical-offset="0" max-vertical-offset="801">
@@ -384,10 +360,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day 3/js/Day3Prompts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 3/js/Day3Arrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58181816" vertical-offset="435" max-vertical-offset="1260">
+          <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Owens_Matthew_Expressions_Assignment/js/ExpressionsAssignment.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6363636" vertical-offset="0" max-vertical-offset="825">
           <caret line="33" column="163" selection-start-line="33" selection-start-column="163" selection-end-line="33" selection-end-column="163" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day2LabExpressions/js/Day2LabExpressions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6181818" vertical-offset="195" max-vertical-offset="1020">
+          <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

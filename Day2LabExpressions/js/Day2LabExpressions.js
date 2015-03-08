@@ -45,7 +45,7 @@ var originalPrice=400;
 var discountPercentage=20;
 var salesTax=5;
 var item="South Norwegian Penguin";
-//Turn the whole numbers into percents
+//Turn the whole numbers into percent decimals
 discountPercentage/=100;
 salesTax/=100;
 
