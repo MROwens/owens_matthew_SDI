@@ -20,7 +20,7 @@ array[1]=prompt("How about the second week?");
 array[2]=prompt("And the thrid week?");
 array[3]=prompt("Finally, how much was gained in the last week of the month?");
 
-var totalExp=array[0]+array[1]+array[2]+array[3];
+var totalExp=parseInt(array[0])+parseInt(array[1])+parseInt(array[2])+parseInt(array[3]);
 
 var averageExp=totalExp/=array.length;
 
