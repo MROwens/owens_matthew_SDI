@@ -24,7 +24,7 @@ var totalExp=array[0]+array[1]+array[2]+array[3];
 
 var averageExp=totalExp/=array.length;
 
-
+console.log("You have earned a total of "+totalExp+" experience over the course of "+array.length+" weeks. This averages out to be "+averageExp+" a week.")
 
 
 
