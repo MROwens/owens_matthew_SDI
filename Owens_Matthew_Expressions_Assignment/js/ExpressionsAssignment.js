@@ -31,7 +31,7 @@ weeks--;
 console.log("You have earned a total of "+totalExp+" experience over the course of "+weeks+" weeks. This averages out to be "+averageExp+" experience a week.")
 
 /*
-Entered 400,500,700,and 900. The output was "You have earned a total of 2500 experience over the course of 4 weeks. This averages out to be 625 experience a week. 
+Entered 400,500,700,and 900. The output was "You have earned a total of 2500 experience over the course of 4 weeks. This averages out to be 625 experience a week.
  */
 
 
