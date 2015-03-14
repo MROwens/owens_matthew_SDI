@@ -34,7 +34,8 @@ difficulty=difficulty.toLowerCase();
 if(difficulty!="easy"&&difficulty!="medium"&&difficulty!="hard"){
     difficulty=prompt("Please only enter a difficulty of Easy, Medium, or Hard. What is the difficulty of the boss set at?")
 //Adding on bonus experience depending on the difficulty the boss was set at.
-}else if(difficulty==="easy"){
+}
+ if(difficulty==="easy"){
     alert("You have gained a bonus of 500 experience.");
     exp+=500;
 }else if(difficulty==="medium"){
@@ -45,8 +46,18 @@ if(difficulty!="easy"&&difficulty!="medium"&&difficulty!="hard"){
     exp+=1500;
 }
 
-console.log(difficulty);
+var expMultiplier=prompt("We are now going to find your experience after your multiplier buff is applied.\n Is your experience buff 2x, 3x, or 4x?");
 
+if(expMultiplier!="2x"&&expMultiplier!="3x"&&expMultiplier!="4x"){
+    expMultiplier=prompt("Only enter a experience multiplier of 2x, 3x, or 4x.\n What is your experience multiplier?");
+}
 
+if(expMultiplier==="2x"){
+    exp*=2;
+}else if(expMultiplier==="3x"){
+    exp*=3;
+}else if(expMultiplier==="4x"){
+    exp*=4;
+}
 
-
+ console.log("For defeating Azmodan: Destroyer of Worlds you have gained a base experience of 1000. With your level difficulty of "+difficulty+" and your multiplier of "+expMultiplier+" you have gained a total experience of "+exp+". Congratulations!!");
