@@ -20,6 +20,10 @@ boss=boss.toLowerCase();
 //Ternary validating the answer of the prompt
 (boss==="yes"?alert("Congratulations, you gain a base of 1000 experience!"):prompt("You have died.\nHave you defeated the boss of the dungeon?"));
 
+ //If the user enters yes, they gain a base of 1000 experience
+if(boss==="yes"){
+    exp=1000;
+}else(exp=0)
 
 //Defining the variable to find the difficulty of the dungeon.
 var difficulty=prompt("What is the difficulty of the boss set at?");
@@ -46,10 +50,11 @@ if(difficulty!="easy"&&difficulty!="medium"&&difficulty!="hard"){
  //Prompting the user for the experience multiplier of the boss
 var expMultiplier=prompt("We are now going to find your experience after your multiplier buff is applied.\n Is your experience buff 2x, 3x, or 4x?");
 
+ //Validating that the user only puts in 2x, 3x, or 4x for the multiplier
 if(expMultiplier!="2x"&&expMultiplier!="3x"&&expMultiplier!="4x"){
     expMultiplier=prompt("Only enter a experience multiplier of 2x, 3x, or 4x.\n What is your experience multiplier?");
 }
-
+//Multiplying the experience gain depending on the applied multiplier
 if(expMultiplier==="2x"){
     exp*=2;
 }else if(expMultiplier==="3x"){
@@ -57,5 +62,9 @@ if(expMultiplier==="2x"){
 }else if(expMultiplier==="4x"){
     exp*=4;
 }
-
+//Writing the final calculation out to the console
  console.log("For defeating Azmodan: Destroyer of Worlds you have gained a base experience of 1000. With your level difficulty of "+difficulty+" and your multiplier of "+expMultiplier+" you have gained a total experience of "+exp+". Congratulations!!");
+
+ /*
+ Entering a initial value of "Yes" and a difficulty of "Hard" and lastly a multiplier of 2x I receive the final output of 5000 experience.
+  */
