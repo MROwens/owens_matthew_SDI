@@ -16,14 +16,11 @@ var exp;
 var boss=prompt("We are finding out how much experience you gain for defeating a boss depending on difficulty level. Did you defeat the boss of the dungeon?");
 //Setting prompt response to lower case as well as prompting the user if they have defeated the boss.
 boss=boss.toLowerCase();
-if(boss==="yes"){
-    exp=1000;
-    alert("Congratulations, you gain a base of 1000 exp.");
-}else if(difficulty!="yes"){ //If the user does not answer yes, we re-prompt.
-    exp=0;
-    alert("You have died. Please try again.")
-     prompt("Did you defeat the boss of the dungeon?")
-}
+
+//Ternary validating the answer of the prompt
+(boss==="yes"?alert("Congratulations, you gain a base of 1000 experience!"):prompt("You have died.\nHave you defeated the boss of the dungeon?"));
+
+
 //Defining the variable to find the difficulty of the dungeon.
 var difficulty=prompt("What is the difficulty of the boss set at?");
 
@@ -46,6 +43,7 @@ if(difficulty!="easy"&&difficulty!="medium"&&difficulty!="hard"){
     exp+=1500;
 }
 
+ //Prompting the user for the experience multiplier of the boss
 var expMultiplier=prompt("We are now going to find your experience after your multiplier buff is applied.\n Is your experience buff 2x, 3x, or 4x?");
 
 if(expMultiplier!="2x"&&expMultiplier!="3x"&&expMultiplier!="4x"){
