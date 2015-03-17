@@ -25,17 +25,28 @@ var numBites=4;
  var days=8;
 
  //Create for loop to calc zombie number
- for(var i=1; i<=days; i++){
+ /*for(var i=1; i<=days; i++){
 
+
+
+
+ }
+
+ //How long will it take to get a million zombies
+ */
+
+ var numDays=1;
+
+ while(numZombies<=1000000){
      //How many new zombies get made everyday
      var newZombies=numZombies*numBites;
 
      //Add new zombies to our existing horde.
      numZombies+=newZombies;
+      //Console.log the results
+     console.log("There are "+numZombies+" number of zombies on day #"+numDays+"!")
 
-     //Console.log the results
-     console.log("There are "+numZombies+" number of zombies on day #"+i+"!")
+     numDays++;
  }
 
- //How long will it take to get a million zombies
- 
+ console.log("It will take "+(numDays-1)+" days to reach a million zombies.")
