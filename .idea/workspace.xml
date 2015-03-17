@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ConditionalsAssignment.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Owens_Matthew_Conditionals_Assignment/ConditionalsAssignment.html">
+      <file leaf-file-name="Day7Beer.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day7/js/Day7Beer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.18181819" vertical-offset="0" max-vertical-offset="825">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConditionalsAssignment.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Owens_Matthew_Conditionals_Assignment/js/ConditionalsAssignment.js">
+      <file leaf-file-name="Day7Beer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day7/Day7Beer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8727273" vertical-offset="345" max-vertical-offset="1170">
-              <caret line="68" column="138" selection-start-line="68" selection-start-column="138" selection-end-line="68" selection-end-column="138" />
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -86,6 +86,8 @@
         <option value="$PROJECT_DIR$/Day 6 While Loops/Day6Validation.html" />
         <option value="$PROJECT_DIR$/Day 6 While Loops/js/Day6Validation.js" />
         <option value="$PROJECT_DIR$/Owens_Matthew_Conditionals_Assignment/js/ConditionalsAssignment.js" />
+        <option value="$PROJECT_DIR$/Day7/Day7Beer.html" />
+        <option value="$PROJECT_DIR$/Day7/js/Day7Beer.js" />
       </list>
     </option>
   </component>
@@ -147,7 +149,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Owens_Matthew_Conditionals_Assignment" />
+              <option name="myItemId" value="Day7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -161,7 +163,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Owens_Matthew_Conditionals_Assignment" />
+              <option name="myItemId" value="Day7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -498,8 +500,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Owens_Matthew_Conditionals_Assignment/js/ConditionalsAssignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8727273" vertical-offset="345" max-vertical-offset="1170">
-          <caret line="68" column="138" selection-start-line="68" selection-start-column="138" selection-end-line="68" selection-end-column="138" />
+        <state vertical-scroll-proportion="0.38181818" vertical-offset="60" max-vertical-offset="1110">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7/Day7Beer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7/js/Day7Beer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18181819" vertical-offset="0" max-vertical-offset="825">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding />
         </state>
       </provider>
