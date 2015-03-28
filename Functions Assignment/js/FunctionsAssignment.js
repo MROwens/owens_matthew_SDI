@@ -80,3 +80,5 @@ console.log("You are spending $"+spending+" monthly on Starbucks. That translate
   I entered an initial value of 7.99 then 3 for the days of the week and got an output of $19.98 a month. I input the $31.97 to calculate the yearly cost and got $383.64.
   For a final output of "You are spending $19.98 a month on Starbucks. This translates to $382.64 a year."
   */
+
+ //Math.random()x (max-min)+min
